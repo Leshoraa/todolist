@@ -95,20 +95,6 @@ The **To-Do List Website** is a personal task manager that helps you stay organi
 
 ---
 
-### 🔑 Login Page  
-![Login Page](https://github.com/user-attachments/assets/a2c420d9-85da-406c-8a49-3664a691c1d1)
-
-### 📝 Task Management (CRUD)  
-![CRUD](https://github.com/user-attachments/assets/dd285baf-fd69-471d-8d48-3293c92df720)
-
-### 🧭 Navigation (Complete/Incomplete Tasks)  
-![Navigation](https://github.com/user-attachments/assets/5da94c03-7003-43f4-a4b7-63d6732a90ff)
-
-### 🚪 Logout Page  
-![Logout](https://github.com/user-attachments/assets/df9b15fb-5e12-46c2-adee-bd5b178ece49)
-
----
-
 ## 🤝 Contributing
 
 Feel free to fork this project, star ⭐ it, and submit pull requests. Suggestions and issues are welcome!
