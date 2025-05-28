@@ -16,7 +16,7 @@ The **To-Do List Website** is a personal task manager that helps you stay organi
   Switch between completed and incomplete tasks with scroll-based navigation.
 
 - 📱 **Responsive Design**  
-  Adapts beautifully across desktop, tablet, and mobile screens.
+  Fully responsive design that ensures a seamless experience across desktops, tablets, and mobile devices.
 
 ---
 
