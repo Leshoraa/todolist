@@ -25,21 +25,21 @@ The **To-Do List Website** is a personal task manager that helps you stay organi
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/a2c420d9-85da-406c-8a49-3664a691c1d1" width="200px"/><br>
+      <img src="https://github.com/user-attachments/assets/a2c420d9-85da-406c-8a49-3664a691c1d1" width="400px"/><br>
       <strong>Login Page</strong>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/dd285baf-fd69-471d-8d48-3293c92df720" width="200px"/><br>
+      <img src="https://github.com/user-attachments/assets/dd285baf-fd69-471d-8d48-3293c92df720" width="400px"/><br>
       <strong>Task Management (CRUD)</strong>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/df9b15fb-5e12-46c2-adee-bd5b178ece49" width="200px"/><br>
+      <img src="https://github.com/user-attachments/assets/df9b15fb-5e12-46c2-adee-bd5b178ece49" width="400px"/><br>
       <strong>Task Navigation</strong>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/5da94c03-7003-43f4-a4b7-63d6732a90ff" width="200px"/><br>
+      <img src="https://github.com/user-attachments/assets/5da94c03-7003-43f4-a4b7-63d6732a90ff" width=400px"/><br>
       <strong>Logout Page</strong>
     </td>
   </tr>
